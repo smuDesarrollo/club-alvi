@@ -1,0 +1,11 @@
+# Activar RewriteEngine
+
+Options +FollowSymlinks
+RewriteEngine on
+
+RewriteBase /club-alvi/
+
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+ 
+RewriteRule ^(.*)$ index.php?wb=$1 [L]

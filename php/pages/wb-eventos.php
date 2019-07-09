@@ -1,0 +1,71 @@
+<section class="container  flex  fixed-top">
+	<div class="item  ph12  i-b  v-middle  center">
+		<h1 class=" sansita f_75  p1  md-f3  lg-f4  center"><img class="eventos  v-middle  " src="php/img/iconos-home/eventos_concursos.png" width="40" height="40" alt=""> &nbsp; Eventos y Concursos</h1>
+	</div>
+</section>
+
+<article class="container  line-bottom  ph12  p2  md-flex">
+	<div class="caja  md5 lg3 flex-auto">
+		<h1 class="evento  sansita  p1  v-middle  center  b-color" >- Concurso -</h1>
+		<img class="p_5" src="php/img/eventos/evento-01.jpg" alt="">
+	</div>
+	<div class="md7  p1  flex-auto">
+		<h3 class="p_5  roboto-bold  mayuscula">GANA UN KIT DE PASTELERÍA CON WATTS</h3>
+		<p class="p_5  f_75  roboto-regular  y-color">Vigencia: Desde el 26 de junio al 27 de agosto del 2019.</p>
+
+		<p class="p_5  line-top  justify  roboto-regular"><li>Mecánica: Por compras desde $10.000 de los productos adheridos y actualizando sus datos en <a class="y-color" href="https://www.alvi.cl/form_actualiza_tus_datos.php" target="_blank">www.alvi.cl</a> durante la vigencia del concurso estarás participando.</li><br>
+		<li>Premio: Kit de pastelería
+		</li><br>
+		<li>Sorteo: 10 de septiembre 2019</li><br>
+
+		<li>Locales adheridos: 33 salas Alvi</li>
+		</p>
+
+
+		<div class="md7  p_5  flex-auto">
+		<p class="f_75  left  roboto-regular  y-color">Terminos y condiciones</p>
+		<p class="f_75  left  roboto-regular  y-color"><a class="y-color" href="https://www.alvi.cl/wp-content/uploads/2019/06/BASES-WATTS-GANA-UN-KIT-DE-PASTELERI%cc%81A-.pdf" target="_blank">ver bases</a></p>
+		</div>
+	</div>
+</article>
+
+<article class="container line-bottom  ph12  p2  md-flex"><!--agregar clase line-bottom para visualizar la línea inferior del article-->
+	<div class="caja  md5 lg3 flex-auto">
+		<h1 class="evento  sansita  p1  v-middle  center  b-color" >- Concurso -</h1>
+		<img class="p_5" src="php/img/eventos/evento-05.jpg" alt="">
+	</div>
+	<div class="md7  p1  flex-auto">
+		<h3 class="p_5  roboto-bold  mayuscula">Gana con Soprole y disfruta de tu negocio sobre ruedas</h3>
+		<p class="p_5  f_75  roboto-regular  y-color">Vigencia: Desde el 01 de marzo hasta 31 de agosto de 2019.</p>
+
+		<p class="p_5  line-top  justify  roboto-regular"><li>Mecánica: Compra productos Soprole sobre $10.000 pesos y actualiza tus datos <a class="y-color" href="https://www.alvi.cl/form_actualiza_tus_datos.php" target="_blank">aquí</a>, exclusivo para socios comerciantes.</li><br>
+
+		<li>Sorteo: Premios mensuales se sortearán dentro de los primeros 10 días del mes siguiente.</li><br>
+
+		<li>Premios:
+			<ul>
+				<li>Premio de marzo: 20 kits almacenero, compuesto cada uno de un jockey, una pechera y un posa vasos, todos marca Soprole. Valor referencial de $25.000 cada kit.</li>
+				<li>Premio de abril: 15 pizarras tipo “paloma”, de 120 cm. x 50 cm. Valor referencial de $45.000 cada pizarra.</li>
+				<li>Premio de mayo: 8 balanzas digitales, 40 kg. con visor LCD, marca Granteck, modelo 17800. Valor referencial de $25.000 cada balanza digital.</li>
+				<li>Premio de junio: 6 cortadoras de cecinas Friorinos ECO-250. Valor referencial de $185.000 cada cortadora de cecina.</li>
+				<li>Premio de julio: 3 conservadoras de frío Friorinos BDF-230 Metal. Valor referencial de $160.000 cada conservadora de frío.</li>
+				<li>Premio único y final de la promoción de agosto: 1 furgón cargo M201 Changan 0 km. Valor referencial de mercado de $5.000.000.</li>
+			</ul>
+		</li><br>
+
+		<li>Locales adheridos: Todos los locales.</li>
+		</p>
+
+
+		<div class="md7  p_5  flex-auto">
+		<p class="f_75  left  roboto-regular  y-color">Terminos y condiciones</p>
+		<p class="f_75  left  roboto-regular  y-color"><a class="y-color" href="https://www.alvi.cl/wp-content/uploads/2019/03/Bases-Promocio%CC%81n-Soprole-Tu-negocio-sobre-ruedas.pdf" target="_blank">ver bases</a></p>
+		</div>
+	</div>
+</article>
+
+
+
+
+
+
