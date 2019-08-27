@@ -197,12 +197,17 @@
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a class="collap" data-toggle="collapse" data-parent="#accordion" href="#collapse10">¿Cómo debo activar el Programa de Asistencias?</a>
+          <a class="collap" data-toggle="collapse" data-parent="#accordion" href="#collapse10">¿Cómo inscribirme en el Programa de Asistencias para mi negocio?</a>
         </h4>
       </div>
       <div id="collapse10" class="panel-collapse collapse">
         <div class="panel-body  grey">
-        <p> Debes acercarte al Servicio al Socio y solicitar la activación del programa con la Anfitriona. Durante los primeros días del siguiente mes nos pondremos en contacto telefónico contigo para confirmar la activación y aclarar todas tus dudas.</p>
+        <p> Para obtener este beneficio Gratuito del Club Alvi debes ser socio Vip u Oro e inscribirte con cualquiera de estas alternativas:</p>
+        <ul>
+          <li>Llamando al 224627170</li>
+          <li>Enviando un mail a socioalvi@americanassist.com</li>
+          <li>O mandando un mensaje al WhatsApp + 56 9 56192663</li>
+        </ul>
         </div>
       </div>
     </div>
@@ -210,12 +215,12 @@
      <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a class="collap" data-toggle="collapse" data-parent="#accordion" href="#collapse11">¿Cómo solicito mis asistencias?</a>
+          <a class="collap" data-toggle="collapse" data-parent="#accordion" href="#collapse11">¿Cómo solicitar una Asistencia para mi negocio?</a>
         </h4>
       </div>
       <div id="collapse11" class="panel-collapse collapse">
         <div class="panel-body  grey">
-        <p> Debes comunicarte a FONO ASISTENCIA ALVI  224627170 que funciona todos los días y a cualquier hora. Para otras consultas puedes comunicarte WhatsApp de ASISTENCIA ALVI  de lunes a viernes de 8:00 a 18:00 hrs. Para activarlo debes escribir un mensaje al +56956192663.</p>
+        <p> Si ya estás inscrito en el Programa de Asistencias, debes comunicarte al FONO ASISTENCIA ALVI 224627170 que funciona todos los días y a cualquier hora. Para otras consultas puedes comunicarte al WhatsApp de ASISTENCIA ALVI +56956192663 de lunes a viernes de 8:00 a 18:00 hrs.</p>
         </div>
       </div>
     </div>

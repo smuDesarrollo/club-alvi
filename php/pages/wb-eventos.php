@@ -4,6 +4,58 @@
 	</div>
 </section>
 
+
+<article class="container  line-bottom  ph12  p2  md-flex">
+	<div class="caja  md5 lg3 flex-auto">
+		<h1 class="evento  sansita  p1  v-middle  center  b-color" >- Concurso -</h1>
+		<img class="p_5" src="php/img/eventos/evento-03.jpg" alt="">
+	</div>
+	<div class="md7  p1  flex-auto">
+		<h3 class="p_5  roboto-bold  mayuscula">RENUEVA TU ALMACÉN O ABASTECE TU NEGOCIO CON TOQUES DE LIMPIEZA</h3>
+		<p class="p_5  f_75  roboto-regular  y-color">Vigencia: Desde el 15 de julio hasta el 27 de agosto de 2019.</p>
+
+		<p class="p_5  line-top  justify  roboto-regular"><li>Mecánica: Por la compra de al menos $10.000 en productos Home Care de Unilever y actualizando tus datos en <a class="y-color" href="https://www.alvi.cl/form_actualiza_tus_datos.php" target="_blank">www.alvi.cl</a>, estarás participando por una renovación para tu almacén de hasta $300.000. Y si eres Horeca o Feriante estarás participando por una Giftcard de $300.000 para tu próxima compra de productos Unilever exclusivamente en locales Alvi.</li><br>
+		<li>Premio: Un arreglo para tu almacén de hasta $300.000
+		</li><br>
+		<li>Sorteo: 12 de septiembre.</li><br>
+
+		<li>Locales adheridos: Todos.</li>
+		</p>
+
+
+		<div class="md7  p_5  flex-auto">
+		<p class="f_75  left  roboto-regular  y-color">Terminos y condiciones</p>
+		<p class="f_75  left  roboto-regular  y-color"><a class="y-color" href="http://www.alvi.cl/wp-content/uploads/2019/08/Bases-Concurso-Renueva-tu-almacén-o-abastece-tu-negocio-.pdf" target="_blank">ver bases</a></p>
+		</div>
+	</div>
+</article>
+
+<article class="container  line-bottom  ph12  p2  md-flex">
+	<div class="caja  md5 lg3 flex-auto">
+		<h1 class="evento  sansita  p1  v-middle  center  b-color" >- Concurso -</h1>
+		<img class="p_5" src="php/img/eventos/evento-04.jpg" alt="">
+	</div>
+	<div class="md7  p1  flex-auto">
+		<h3 class="p_5  roboto-bold  mayuscula">GANA UN HERVIDOR INDUSTRIAL CON LIPTON Y DALE CALOR A TUS CLIENTES</h3>
+		<p class="p_5  f_75  roboto-regular  y-color">Vigencia: Desde el 15 de julio hasta el 27 de agosto de 2019.</p>
+
+		<p class="p_5  line-top  justify  roboto-regular"><li>Mecánica: Por compras desde $6.000 en productos Lipton adheridos y actualizando tus datos en <a class="y-color" href="https://www.alvi.cl/form_actualiza_tus_datos.php" target="_blank">www.alvi.cl</a> ya estarás participando por 1 Hervidor Industrial de 20 Lts.</li><br>
+		<li>Premio: 33 hervidores industriales de 20 litros.
+		</li><br>
+		<li>Sorteo: 12 de septiembre.</li><br>
+
+		<li>Locales adheridos: Todos.</li>
+		</p>
+
+
+		<div class="md7  p_5  flex-auto">
+		<p class="f_75  left  roboto-regular  y-color">Terminos y condiciones</p>
+		<p class="f_75  left  roboto-regular  y-color"><a class="y-color" href="https://www.alvi.cl/wp-content/uploads/2019/08/Bases-Concurso-Hervidores-Alvi.pdf" target="_blank">ver bases</a></p>
+		</div>
+	</div>
+</article>
+
+
 <article class="container  line-bottom  ph12  p2  md-flex">
 	<div class="caja  md5 lg3 flex-auto">
 		<h1 class="evento  sansita  p1  v-middle  center  b-color" >- Concurso -</h1>
@@ -32,7 +84,7 @@
 <article class="container line-bottom  ph12  p2  md-flex"><!--agregar clase line-bottom para visualizar la línea inferior del article-->
 	<div class="caja  md5 lg3 flex-auto">
 		<h1 class="evento  sansita  p1  v-middle  center  b-color" >- Concurso -</h1>
-		<img class="p_5" src="php/img/eventos/evento-05.jpg" alt="">
+		<img class="p_5" src="php/img/eventos/evento-02.jpg" alt="">
 	</div>
 	<div class="md7  p1  flex-auto">
 		<h3 class="p_5  roboto-bold  mayuscula">Gana con Soprole y disfruta de tu negocio sobre ruedas</h3>
