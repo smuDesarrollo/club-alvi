@@ -4,6 +4,30 @@
 	</div>
 </section>
 
+<section class="container">
+		<div class="item  ph12 i-b  v-middle  center">	
+			<article class="container sm12">
+				<div style="color: #003f8f; border-radius: 8px; background-color: #ffcc33; padding-bottom: 25px;" class="bkg-yellow jc-center flex flex-wrap  md-flex-wrap ai-center">
+					<div class="md8">
+						<h3 style="padding-bottom: 4px;" class="sansita  ctb  p2 lg-f_1_75 center horeca-tcw">Ingresa y participa de atractivos concursos</h3>
+						<p style="    padding-bottom: 14px;
+    color: #003f8f;
+    font-size: 1.25em; ">Recuerda revisar la mecánica de participación y bases legales</p>
+					</div>
+						
+					<div class="md4" style="padding-top: 20px;">
+						<a style="color: #ffffff;     background-color: #003f8f;
+    color: white;
+    border-radius: 8px;
+    padding: 14px 11px;
+    font-size: 1.1em;
+    font-weight: 500;
+    box-shadow: -3px 3px 5px 0px rgba(0,0,0,0.4);" class="mayuscula button-blue adjust-btn-head sansita" href="form_actualiza_tus_datos.php">actualiza tus datos aquí <span style="font-size: 2.2em; vertical-align: sub; margin-left: 5px;">&gt; </span></a>
+					</div>
+				</div>
+			</article>
+		</div>
+</section>
 
 <article class="container  line-bottom  ph12  p2  md-flex">
 	<div class="caja  md5 lg3 flex-auto">
@@ -14,11 +38,11 @@
 		<h3 class="p_5  roboto-bold  mayuscula">RENUEVA TU ALMACÉN O ABASTECE TU NEGOCIO CON TOQUES DE LIMPIEZA</h3>
 		<p class="p_5  f_75  roboto-regular  y-color">Vigencia: Desde el 15 de julio hasta el 27 de agosto de 2019.</p>
 
-		<p class="p_5  line-top  justify  roboto-regular"><li>Mecánica: Por la compra de al menos $10.000 en productos Home Care de Unilever y actualizando tus datos en <a class="y-color" href="https://www.alvi.cl/form_actualiza_tus_datos.php" target="_blank">www.alvi.cl</a>, estarás participando por una renovación para tu almacén de hasta $300.000. Y si eres Horeca o Feriante estarás participando por una Giftcard de $300.000 para tu próxima compra de productos Unilever exclusivamente en locales Alvi.</li><br>
+		<p class="p_5  line-top  justify  roboto-regular"><li>Mecánica: Por la compra de al menos $10.000 en productos Home Care de Unilever y actualizando tus datos en <a class="y-color" href="../form_actualiza_tus_datos.php" target="_blank">www.alvi.cl</a>, estarás participando por una renovación para tu almacén de hasta $300.000. Y si eres Horeca o Feriante estarás participando por una Giftcard de $300.000 para tu próxima compra de productos Unilever exclusivamente en locales Alvi.</li><br>
 		<li>Premio: Un arreglo para tu almacén de hasta $300.000
 		</li><br>
-		<li>Sorteo: 12 de septiembre.</li><br>
-
+		<li>Sorteo: 12 de septiembre.</li>
+		<br>
 		<li>Locales adheridos: Todos.</li>
 		</p>
 
