@@ -22,7 +22,7 @@
     padding: 14px 11px;
     font-size: 1.1em;
     font-weight: 500;
-    box-shadow: -3px 3px 5px 0px rgba(0,0,0,0.4);" class="mayuscula button-blue adjust-btn-head sansita" href="form_actualiza_tus_datos.php">actualiza tus datos aquí <span style="font-size: 2.2em; vertical-align: sub; margin-left: 5px;">&gt; </span></a>
+    box-shadow: -3px 3px 5px 0px rgba(0,0,0,0.4);" class="mayuscula button-blue adjust-btn-head sansita" href="https://www.alvi.cl/form_actualiza_tus_datos.php">actualiza tus datos aquí <span style="font-size: 2.2em; vertical-align: sub; margin-left: 5px;">&gt; </span></a>
 					</div>
 				</div>
 			</article>
