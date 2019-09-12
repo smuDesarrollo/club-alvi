@@ -22,7 +22,7 @@
 
 <article class="container  flex">
 	<div class="item  ph12 i-b  v-middle  center">
-		<a href="https://www.alvi.cl/wp-content/uploads/2019/09/EDS-ADHERIDAS-A-LA-TARJETA-SHELL.pdf" target="_blank"><img src="php/img/combustible/descargar-c.png" alt=""></a>
+		<a href="https://www.alvi.cl/wp-content/uploads/2019/09/EDS-ADHERIDAS-A-LA-TARJETA-SHELL.pdf"  target="_blank"><img src="php/img/combustible/descargar-c.png" alt=""></a>
 	</div>
 </article>
 
