@@ -4,30 +4,59 @@
 	</div>
 </section>
 
-<section class="container">
-		<div class="item  ph12 i-b  v-middle  center">	
-			<article class="container sm12">
-				<div style="color: #003f8f; border-radius: 8px; background-color: #ffcc33; padding-bottom: 25px;" class="bkg-yellow jc-center flex flex-wrap  md-flex-wrap ai-center">
-					<div class="md8">
-						<h3 style="padding-bottom: 4px;" class="sansita  ctb  p2 lg-f_1_75 center horeca-tcw">Ingresa y participa de atractivos concursos</h3>
-						<p style="    padding-bottom: 14px;
-    color: #003f8f;
-    font-size: 1.25em; ">Recuerda revisar la mecánica de participación y bases legales</p>
-					</div>
-						
-					<div class="md4" style="padding-top: 20px;">
-						<a style="color: #ffffff;     background-color: #003f8f;
-    color: white;
-    border-radius: 8px;
-    padding: 14px 11px;
-    font-size: 1.1em;
-    font-weight: 500;
-    box-shadow: -3px 3px 5px 0px rgba(0,0,0,0.4);" class="mayuscula button-blue adjust-btn-head sansita" href="https://www.alvi.cl/form_actualiza_tus_datos.php">actualiza tus datos aquí <span style="font-size: 2.2em; vertical-align: sub; margin-left: 5px;">&gt; </span></a>
-					</div>
-				</div>
-			</article>
+<article class="container  line-bottom  ph12  p2  md-flex">
+	<div class="caja  md5 lg3 flex-auto">
+		<h1 class="evento  sansita  p1  v-middle  center  b-color" >- Concurso -</h1>
+		<img class="p_5" src="php/img/eventos/evento-06.jpg" alt="">
+	</div>
+	<div class="md7  p1  flex-auto">
+		<h3 class="p_5  roboto-bold  mayuscula">GANA UNA FREIDORA ELECTRICA CON WATT’S Y AMPLÍA LO QUE PUEDE OFRECER TU NEGOCIO</h3>
+		<p class="p_5  f_75  roboto-regular  y-color">Vigencia: Desde el 28 de agosto hasta el 22 de octubre del 2019.</p>
+
+		<p class="p_5  line-top  justify  roboto-regular"><li>Por compras superiores a $10.000 en los productos seleccionados participa por el sorteo de una de las 33 freidoras eléctricas o una de las 33 Gift Card de $50.000.</li><br>
+		<li>Primer Premio: Una de las 33 freidoras eléctricas.
+		</li><br>
+		<li>Segundo Premio: Una de las 33 Gift Card de $50.000.
+		</li><br>
+		<li>Sorteo: 11 de noviembre del 2019.</li><br>
+
+		<li>Locales adheridos: Todos.</li>
+		</p>
+
+
+		<div class="md7  p_5  flex-auto">
+		<p class="f_75  left  roboto-regular  y-color">Terminos y condiciones</p>
+		<p class="f_75  left  roboto-regular  y-color"><a class="y-color" href="https://www.unimarc.cl/wp-content/uploads/2019/09/BASES-WATTS.pdf" target="_blank">ver bases</a></p>
 		</div>
-</section>
+	</div>
+</article>
+
+<article class="container  line-bottom  ph12  p2  md-flex">
+	<div class="caja  md5 lg3 flex-auto">
+		<h1 class="evento  sansita  p1  v-middle  center  b-color" >- Concurso -</h1>
+		<img class="p_5" src="php/img/eventos/evento-05.jpg" alt="">
+	</div>
+	<div class="md7  p1  flex-auto">
+		<h3 class="p_5  roboto-bold  mayuscula">EQUIPA O RENUEVA TU LOCAL JUNTO A OIKOS</h3>
+		<p class="p_5  f_75  roboto-regular  y-color">Vigencia: Desde el 28 de agosto hasta el 24 de septiembre del 2019</p>
+
+		<p class="p_5  line-top  justify  roboto-regular"><li>Mecánica: Por compras superiores a $5.000 en productos Oikos seleccionados participa en el sorteo de la renovación de tu local o una de las 33 Gift Card de $50.000.</li><br>
+		<li>Primer Premio: Una vitrina refrigerada vertical, una balanza electrónica y una Gift Card de $500.000.
+		</li><br>
+		<li>Segundo Premio: Una de las 33 Gift Card de $50.000.
+		</li><br>
+		<li>Sorteo: 7 de octubre del 2019.</li><br>
+
+		<li>Locales adheridos: Todos.</li>
+		</p>
+
+
+		<div class="md7  p_5  flex-auto">
+		<p class="f_75  left  roboto-regular  y-color">Terminos y condiciones</p>
+		<p class="f_75  left  roboto-regular  y-color"><a class="y-color" href="https://www.unimarc.cl/wp-content/uploads/2019/09/BASES-OIKOS.pdf" target="_blank">ver bases</a></p>
+		</div>
+	</div>
+</article>
 
 <article class="container  line-bottom  ph12  p2  md-flex">
 	<div class="caja  md5 lg3 flex-auto">
@@ -38,11 +67,11 @@
 		<h3 class="p_5  roboto-bold  mayuscula">RENUEVA TU ALMACÉN O ABASTECE TU NEGOCIO CON TOQUES DE LIMPIEZA</h3>
 		<p class="p_5  f_75  roboto-regular  y-color">Vigencia: Desde el 15 de julio hasta el 27 de agosto de 2019.</p>
 
-		<p class="p_5  line-top  justify  roboto-regular"><li>Mecánica: Por la compra de al menos $10.000 en productos Home Care de Unilever y actualizando tus datos en <a class="y-color" href="../form_actualiza_tus_datos.php" target="_blank">www.alvi.cl</a>, estarás participando por una renovación para tu almacén de hasta $300.000. Y si eres Horeca o Feriante estarás participando por una Giftcard de $300.000 para tu próxima compra de productos Unilever exclusivamente en locales Alvi.</li><br>
+		<p class="p_5  line-top  justify  roboto-regular"><li>Mecánica: Por la compra de al menos $10.000 en productos Home Care de Unilever y actualizando tus datos en <a class="y-color" href="https://www.alvi.cl/form_actualiza_tus_datos.php" target="_blank">www.alvi.cl</a>, estarás participando por una renovación para tu almacén de hasta $300.000. Y si eres Horeca o Feriante estarás participando por una Giftcard de $300.000 para tu próxima compra de productos Unilever exclusivamente en locales Alvi.</li><br>
 		<li>Premio: Un arreglo para tu almacén de hasta $300.000
 		</li><br>
-		<li>Sorteo: 12 de septiembre.</li>
-		<br>
+		<li>Sorteo: 12 de septiembre.</li><br>
+
 		<li>Locales adheridos: Todos.</li>
 		</p>
 
@@ -105,7 +134,7 @@
 	</div>
 </article>
 
-<article class="container line-bottom  ph12  p2  md-flex"><!--agregar clase line-bottom para visualizar la línea inferior del article-->
+<article class="container ph12  p2  md-flex"><!--agregar clase line-bottom para visualizar la línea inferior del article-->
 	<div class="caja  md5 lg3 flex-auto">
 		<h1 class="evento  sansita  p1  v-middle  center  b-color" >- Concurso -</h1>
 		<img class="p_5" src="php/img/eventos/evento-02.jpg" alt="">
